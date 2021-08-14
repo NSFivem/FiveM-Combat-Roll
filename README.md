@@ -16,9 +16,10 @@ Its currently at 120 (Which i recommend) If you want it to be quicker just incre
 -Tronix 
 
 Discords: 
-[ND Anticheat](https://discord.com/invite/ndac)
 
-[ND Development Team](https://discord.gg/nsdev)
+[ND Anticheat Discord](https://discord.com/invite/ndac)
 
-[Sin RP](https://discord.gg/sinrp)
+[ND Development Team Discord](https://discord.gg/nsdev)
+
+[Sin RP Discord](https://discord.gg/sinrp)
 
