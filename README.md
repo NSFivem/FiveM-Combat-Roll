@@ -13,7 +13,7 @@ Its currently at 120 (Which i recommend) If you want it to be quicker just incre
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Tronix - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Discord: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
