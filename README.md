@@ -13,8 +13,10 @@ Its currently at 120 (Which i recommend) If you want it to be quicker just incre
 <!-- CONTACT -->
 ## Contact
 
-Tronix - [@your_twitter](https://twitter.com/your_username) - email@example.com
+-Tronix 
 
-Discord: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
+Discords: 
+[ND Anticheat](https://discord.com/invite/ndac)
+[ND Development Team](https://discord.gg/nsdev)
+[Sin RP](https://discord.gg/sinrp)
 
