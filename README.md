@@ -10,6 +10,11 @@ Its currently at 120 (Which i recommend) If you want it to be quicker just incre
 2. Paste it into an existing Lua file in Client
 3. Well done Its installed
 
+<!-- CONTACT -->
+## Contact
 
+Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+
+Discord: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 
